@@ -1,3 +1,13 @@
+![Screenshot (17)](https://github.com/spembatla/RealEstate-Website/assets/136897506/44022124-957f-4138-9b09-6b22f9b42340)
+![Screenshot (18)](https://github.com/spembatla/RealEstate-Website/assets/136897506/379d0955-c8e2-46ba-b8d1-19d84c48c36d)
+![Screenshot (19)](https://github.com/spembatla/RealEstate-Website/assets/136897506/e4f0cb25-68c9-4682-a338-a6138404d32c)
+![Screenshot (20)](https://github.com/spembatla/RealEstate-Website/assets/136897506/280fb6cf-87a2-45e4-a9d2-5484bf07fc40)
+![Screenshot (21)](https://github.com/spembatla/RealEstate-Website/assets/136897506/16a47a0b-5e08-45e1-9ba8-5fa9b5074987)
+![Screenshot (22)](https://github.com/spembatla/RealEstate-Website/assets/136897506/4b7b5785-5c4f-461b-a363-1b0db44cb7ea)
+![Screenshot (23)](https://github.com/spembatla/RealEstate-Website/assets/136897506/d7251dfc-88f2-43fd-b80e-962cda5e2bee)
+![Screenshot (24)](https://github.com/spembatla/RealEstate-Website/assets/136897506/6f19e5eb-0e7c-4953-a8a3-ecefc99df517)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
